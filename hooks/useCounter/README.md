@@ -1,4 +1,4 @@
-# usecounter hook
+# useCounter hook
 
 Ejemplo de uso:
 ```
